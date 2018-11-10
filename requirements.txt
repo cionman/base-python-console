@@ -1,0 +1,9 @@
+# in macos to install chromedriver or phantomjs
+# brew install chromedriver
+# brew install phantomjs
+
+certifi>=2018.1.18
+configparser>=3.5.0
+PyMySQL>=0.8.0
+selenium>=3.8.1
+openpyxl==2.5.9
